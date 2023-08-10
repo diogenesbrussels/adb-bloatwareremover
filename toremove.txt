@@ -132,3 +132,4 @@ wb.goog.dcuniverse
 wb.goog.got.conquest
 wsomacp
 com.google.android.videos
+com.sec.spp.push
