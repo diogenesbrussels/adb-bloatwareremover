@@ -8,6 +8,8 @@ Add or delete line with package name
 
 ## Setup
 
+Install ADB cli tool on your computer
+
 Activate developer mode on the phone
 
 > About phone > Click several times on current build number
