@@ -192,6 +192,7 @@ com.xiaomi.micloud.sdk
 com.xiaomi.midrop
 com.xiaomi.mipicks
 com.xiaomi.payment
+com.zhiliaoapp.musically
 de.axelspringer.yana.zeropage
 de.telekom.tsc
 drivemode
