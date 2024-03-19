@@ -4,6 +4,7 @@ audible.application
 bleacherreport.android.teamstream
 boxer.app
 cn.wps.xiaomi.abroad.lite
+cn.wps.moffice_eng
 cnn.mobile.android.phone
 code.name.monkey.retromusic
 com.amazon.aa
