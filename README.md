@@ -10,6 +10,10 @@ Add or delete line with package name
 
 Install ADB cli tool on your computer
 
+Set executable permissions on the script
+
+	chmod +x remove_apps.sh
+
 Activate developer mode on the phone
 
 > About phone > Click several times on current build number
@@ -21,7 +25,7 @@ Connect the phone to the computer
 
 ## Run
 
-	bash remove_apps.sh
+	./remove_apps.sh
 
 ## Additional notes
 

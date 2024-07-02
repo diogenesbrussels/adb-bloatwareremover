@@ -1,4 +1,4 @@
-#!sbin/bash
+#!/bin/bash
 
 echo ""
 echo "### Uninstall apps listed in toremove.txt ###"
