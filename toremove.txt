@@ -322,3 +322,15 @@ wavemarket.waplauncher
 wb.goog.dcuniverse
 wb.goog.got.conquest
 wsomacp
+com.pri.smartfloatball.overlay
+com.pri.longshotscreen.overlay
+com.dobest.dynamic
+com.pri.featureX
+com.pri.factorytest
+com.pri.cloudlist
+com.pri.featureX.overlay
+com.dobest.securitycenter.overlay
+com.prize.funnysound
+com.gotron.uota
+com.pri.smart
+com.pri.smartfloatball
