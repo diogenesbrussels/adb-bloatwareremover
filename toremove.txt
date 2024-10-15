@@ -866,7 +866,6 @@ com.samsung.android.app.mhswrappertmo
 com.samsung.android.app.mirrorlink
 com.samsung.android.app.motionpanoramaviewer
 com.samsung.android.app.news
-com.samsung.android.app.notes
 com.samsung.android.app.omcagent
 com.samsung.android.app.panel.naver.v
 com.samsung.android.app.pinboard
