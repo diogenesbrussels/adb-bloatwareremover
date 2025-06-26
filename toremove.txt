@@ -1562,3 +1562,5 @@ wb.goog.dcuniverse
 wb.goog.got.conquest
 wsomacp
 zpub.res
+com.samsung.android.app.find
+com.samsung.ecomm.global.gbr
